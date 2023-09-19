@@ -1,0 +1,4 @@
+node_modules
+consfunc.js
+.env
+.DS_STORE
